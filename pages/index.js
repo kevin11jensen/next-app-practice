@@ -14,6 +14,13 @@ export default function Index() {
                         background-color: pink;
                         margin: 0;
                         padding: 16px;
+                        color: white;
+                    }
+                    h1 {
+                        font-size: 2.4rem;
+                    }
+                    p {
+                        font-size: 1.6rem;
                     }
                 `}
             </style>
